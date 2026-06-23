@@ -1,6 +1,6 @@
 const display = document.getElementById("display");
 
-//  lagu
+//  lagu untuk easter egg
 const easterEggSongs = {
     "505": {
         title: "Arctic Monkeys - 505",
