@@ -7,7 +7,7 @@ const easterEggSongs = {
         audioUrl: "audio/505.mp3"
     },
     "2112": {
-        title: "Angka Judul Lagu Lain",
+        title: "Reality Club - 2112",
         audioUrl: "audio/2112.mp3",
         startTime: 181
     }
