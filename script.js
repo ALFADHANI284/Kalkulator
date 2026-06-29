@@ -10,6 +10,11 @@ const easterEggSongs = {
         title: "Reality Club - 2112",
         audioUrl: "audio/2112.mp3",
         startTime: 181
+    },
+    "18":{
+        title: "One Direction - 18",
+        audioUrl: "audio/18.mp3",
+        startTime: 0
     }
 };
 
