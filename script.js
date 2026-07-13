@@ -15,6 +15,11 @@ const easterEggSongs = {
         title: "One Direction - 18",
         audioUrl: "audio/18.mp3",
         startTime: 0
+    },
+    "2118":{
+        title: "HINDIA - everyting you are",
+        audioUrl: "audio/2118.mp3",
+        startTime: 0
     }
 };
 
